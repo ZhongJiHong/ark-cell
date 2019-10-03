@@ -1,2 +1,4 @@
 # ark-cell
-# maven + scala
+Fink
+
+Maven + Scala + FLink Project
