@@ -3,6 +3,7 @@ Fink
 
 Maven + Scala + FLink Project
 
-# git dev feature
+# git daily feature
 /-master
     /-dev
+        /-daily
