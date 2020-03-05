@@ -2,3 +2,5 @@
 Fink
 
 Maven + Scala + FLink Project
+
+# Flink + JanusGraph
